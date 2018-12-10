@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Axia Stencil';
+    src: url('AxiaStencilBlack-Regular.woff2') format('woff2'),
+        url('AxiaStencilBlack-Regular.woff') format('woff'),
+        url('AxiaStencilBlack-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+

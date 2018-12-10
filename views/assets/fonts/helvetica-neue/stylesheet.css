@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Hv.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Hv.woff') format('woff'),
+        url('HelveticaNeueLTStd-Hv.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Roman.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Roman.woff') format('woff'),
+        url('HelveticaNeueLTStd-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Th.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Th.woff') format('woff'),
+        url('HelveticaNeueLTStd-Th.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Blk.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Blk.woff') format('woff'),
+        url('HelveticaNeueLTStd-Blk.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Bd.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Bd.woff') format('woff'),
+        url('HelveticaNeueLTStd-Bd.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Lt.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Lt.woff') format('woff'),
+        url('HelveticaNeueLTStd-Lt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('HelveticaNeueLTStd-Md.woff2') format('woff2'),
+        url('HelveticaNeueLTStd-Md.woff') format('woff'),
+        url('HelveticaNeueLTStd-Md.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+

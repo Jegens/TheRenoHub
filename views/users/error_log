@@ -1,0 +1,31 @@
+[22-Nov-2018 17:48:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/therenohubjegend/public_html/core/db.php on line 40
+[27-Nov-2018 19:21:35 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 1
+[27-Nov-2018 19:21:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 1
+[27-Nov-2018 19:22:35 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 1
+[27-Nov-2018 19:22:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 1
+[27-Nov-2018 19:22:41 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 1
+[27-Nov-2018 19:22:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 1
+[27-Nov-2018 19:24:02 UTC] PHP Warning:  require_once(../elements/html_head.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:24:02 UTC] PHP Fatal error:  require_once(): Failed opening required '../elements/html_head.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:24:10 UTC] PHP Warning:  require_once(../..elements/html_head.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:24:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../..elements/html_head.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:25:54 UTC] PHP Warning:  require_once(../..elements/html_head.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:25:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../..elements/html_head.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:26:01 UTC] PHP Warning:  require_once(../..elements/html_head.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 19:26:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../..elements/html_head.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/users/index.php on line 4
+[27-Nov-2018 20:52:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/therenohubjegend/public_html/views/users/profile.php on line 39
+[27-Nov-2018 20:54:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/therenohubjegend/public_html/views/users/profile.php on line 39
+[27-Nov-2018 21:55:02 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/therenohubjegend/public_html/views/users/profile.php on line 34
+[04-Dec-2018 09:33:14 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function file_upload() on null in /home/therenohubjegend/public_html/models/user.php:94
+Stack trace:
+#0 /home/therenohubjegend/public_html/views/users/edit.php(6): User->edit()
+#1 {main}
+  thrown in /home/therenohubjegend/public_html/models/user.php on line 94
+[04-Dec-2018 09:35:36 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to a member function file_upload() on null in /home/therenohubjegend/public_html/models/user.php:94
+Stack trace:
+#0 /home/therenohubjegend/public_html/views/users/edit.php(6): User->edit()
+#1 {main}
+  thrown in /home/therenohubjegend/public_html/models/user.php on line 94
+[04-Dec-2018 17:44:13 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/therenohubjegend/public_html/views/users/profile.php on line 147
+[04-Dec-2018 17:44:31 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/therenohubjegend/public_html/views/users/profile.php on line 147
+[07-Dec-2018 10:24:56 America/Vancouver] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/therenohubjegend/public_html/views/users/profile.php on line 80

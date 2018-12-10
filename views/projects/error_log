@@ -1,0 +1,37 @@
+[27-Nov-2018 19:30:01 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/projects/index.php on line 1
+[27-Nov-2018 19:30:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/projects/index.php on line 1
+[27-Nov-2018 19:30:30 UTC] PHP Warning:  require_once(../elements/footer.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/projects/index.php on line 80
+[27-Nov-2018 19:30:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../elements/footer.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/projects/index.php on line 80
+[29-Nov-2018 18:44:15 UTC] PHP Warning:  require_once(../core/includes.php): failed to open stream: No such file or directory in /home/therenohubjegend/public_html/views/projects/post.php on line 1
+[29-Nov-2018 18:44:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../core/includes.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/therenohubjegend/public_html/views/projects/post.php on line 1
+[30-Nov-2018 22:16:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Reno' not found in /home/therenohubjegend/public_html/views/projects/add.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/therenohubjegend/public_html/views/projects/add.php on line 8
+[04-Dec-2018 17:00:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/core/util.php:25) in /home/therenohubjegend/public_html/views/projects/add.php on line 13
+[04-Dec-2018 11:30:21 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Teno' not found in /home/therenohubjegend/public_html/views/projects/index.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/therenohubjegend/public_html/views/projects/index.php on line 56
+[04-Dec-2018 19:31:37 UTC] PHP Parse error:  syntax error, unexpected ''user_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/therenohubjegend/public_html/views/projects/index.php on line 77
+[05-Dec-2018 11:03:35 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/elements/html_head.php:1) in /home/therenohubjegend/public_html/views/projects/post.php on line 23
+[05-Dec-2018 11:05:15 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/elements/html_head.php:1) in /home/therenohubjegend/public_html/views/projects/post.php on line 23
+[05-Dec-2018 11:29:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Reno::edit() in /home/therenohubjegend/public_html/views/projects/post.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/therenohubjegend/public_html/views/projects/post.php on line 11
+[05-Dec-2018 11:32:13 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Reno::edit() in /home/therenohubjegend/public_html/views/projects/post.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/therenohubjegend/public_html/views/projects/post.php on line 11
+[05-Dec-2018 11:49:06 America/Vancouver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/therenohubjegend/public_html/models/reno.php on line 147
+[05-Dec-2018 11:49:07 America/Vancouver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/therenohubjegend/public_html/models/reno.php on line 147
+[05-Dec-2018 11:49:11 America/Vancouver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/therenohubjegend/public_html/models/reno.php on line 147
+[05-Dec-2018 13:10:24 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/core/util.php:25) in /home/therenohubjegend/public_html/views/projects/add.php on line 13
+[05-Dec-2018 13:17:44 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/core/util.php:25) in /home/therenohubjegend/public_html/views/projects/add.php on line 13
+[05-Dec-2018 13:18:36 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/core/util.php:25) in /home/therenohubjegend/public_html/views/projects/add.php on line 13
+[05-Dec-2018 13:18:59 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/therenohubjegend/public_html/core/util.php:25) in /home/therenohubjegend/public_html/views/projects/add.php on line 13
+[07-Dec-2018 11:14:37 America/Vancouver] PHP Parse error:  syntax error, unexpected end of file in /home/therenohubjegend/public_html/models/reno.php on line 176
+[07-Dec-2018 11:15:47 America/Vancouver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/therenohubjegend/public_html/models/reno.php on line 177
+[09-Dec-2018 01:16:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/therenohubjegend/public_html/views/projects/index.php on line 191
+[09-Dec-2018 01:25:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/therenohubjegend/public_html/views/projects/index.php on line 167
